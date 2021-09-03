@@ -34,7 +34,7 @@ function setup(){
   //rules = new Rules()
 
 
-  title = createSprite(windowWidth/2 + 20 , windowHeight/2 - 200)
+  title = createSprite(windowWidth/2 + 20 , windowHeight/2)
   title.addImage(titleI)
   title.scale = 1.8;
   
